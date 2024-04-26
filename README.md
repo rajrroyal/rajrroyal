@@ -3,7 +3,7 @@
 ----->
 <!----------------------------------- About Section ------------------------------------>
 <div>
-  <h3>Hi, I'm Raj kr</h3>
+  <h3>Hi, I'm Raj Kr</h3>
   <p>I am a Full Stack Web Developer.</P> 
 </div>
 
