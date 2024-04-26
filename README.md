@@ -1,6 +1,6 @@
-<!----------------------------------- Banner - GeekyShows ------------------------------------>
+<!----------------------------------- Banner - GeekyShows -------------------------------
 [![MasterHead](https://raw.githubusercontent.com/geekyshow1/geekyshow1/main/gbann.png)](#)
-
+----->
 <!----------------------------------- About Section ------------------------------------>
 <div>
   <h3>Hi, I'm Raj kr</h3>
