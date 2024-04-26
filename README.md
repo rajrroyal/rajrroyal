@@ -4,7 +4,7 @@
 <!----------------------------------- About Section ------------------------------------>
 <div>
   <h3>Hi, I'm Raj Kr</h3>
-  <p>I am a Full Stack Web Developer.</P> 
+  <p>😎Full Stack Web Developer.</P> 
 </div>
 
 <!----------------------------------- Tech Stack Section ------------------------------------>
@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php" />
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python" />
 </p>
-<h3>Frontend Framework and Lib</h3>
+<h3>Frontend Framework</h3>
 <p>
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind" />
@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="material-ui" />
     <img src="https://img.shields.io/badge/material%20design-757575?style=for-the-badge&logo=material%20design&logoColor=white" alt="material-design" />
 </p>
-<h3>Backend Framework and Lib</h3>
+<h3>Backend Framework</h3>
 <p>
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="django" />
     <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="laravel" />    
@@ -34,13 +34,15 @@
 <h3>Database</h3>
 <p>
     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
-     <img src="https://img.shields.io/badge/Postgres-31648C?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgres" />
+    <img src="https://img.shields.io/badge/Postgres-31648C?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgres" />
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
     <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite" />
 </p>
-<h3>CMS </h3>
+<h3>CMS or Platforms</h3>
 <p>    
-    <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="wordpress" />
+    <a href="https://wordpress.org" target="blank"><img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Wordpress" /></a>
+    <a href="https://shopify.com" target="blank"><img src="https://img.shields.io/badge/Shopify-95BF46?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify" /> </a> 
+    <a href="https://magento.com" target="blank"><img src="https://img.shields.io/badge/Magento-EA6021?style=for-the-badge&logo=magento&logoColor=white" alt="Magento" /> </a>  
 </p>
 <h3>Other</h3>
 <p>
